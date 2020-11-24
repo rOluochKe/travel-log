@@ -1,4 +1,4 @@
-## Log Entries
+# Log Entry
 
 * Title - Text
 * Description - Text
